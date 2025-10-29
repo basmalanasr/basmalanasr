@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="basmala_new_banner.gif" width="70%" alt="Basmala working"/>
+  <img src="basmala_new_banner.gif" width="100%" alt="Basmala Nasr Banner"/>
 </p>
 
 ---
