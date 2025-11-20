@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/basmala-nasr-6a85a0346)" title="LinkedIn">
+ <a href="https://www.linkedin.com/in/basmala-nasr-6a85a0346" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
 </p>
