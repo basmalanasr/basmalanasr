@@ -1,20 +1,22 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=basmala-nasr">
+<!-- Section 1: Hero / Typing Animation -->
+<h1 align="center">
+  <!-- Typing Animation -->
+  <p>
+    <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6F61&center=true&width=600&lines=Hi,+It's+Basmala+Nasr+💗+....;CS+Student+||+Flutter+Learner;Data+Analysis+%26+AI+Enthusiast">
+    </a>
+  </p>
+</h1>
 
-<h2>Hey 👋, I'm <a href="#">Basmala Nasr</a></h2>
 
-<p>
-I'm a Computer Science student (3rd year), passionate about programming, Data Analysis & AI, and currently learning Flutter development.  
-I build mobile apps using **Flutter + Cubit + Firebase**, and I love exploring new technologies.
-</p>
 
-<!-- Typing Animation -->
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=6C63FF&lines=Hello+There!+👋;I+am+Basmala+Nasr;Flutter+Developer+%7C+CS+Student;Nice+to+meet+you!">
+<!-- Links -->
+<p align="center">
+  <a href="mailto:basmalanasrr82@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="[YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/basmala-nasr-6a85a0346)" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
 </p>
-
----
-
-## ✨ About Me
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280px" align
