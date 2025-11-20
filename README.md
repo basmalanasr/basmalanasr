@@ -74,21 +74,19 @@
 
 <div align="center">
 
-<!-- GitHub Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=basmalanasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=basmalanasr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" />
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=basmalanasr&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=basmalanasr&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalanasr&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=basmalanasr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
 
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
-<img src="https://github.com/basmalanasr/basmalanasr/blob/output/snake-dark.svg" alt="Snake Animation" />
-</div>
+![Snake Animation](https://github.com/basmalanasr/basmalanasr/blob/output/snake-dark.svg)
 
 
 
