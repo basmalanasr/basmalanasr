@@ -75,19 +75,19 @@
 <div align="center">
 
 <!-- GitHub Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=basmala-nasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=basmalanasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=basmala-nasr&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=basmalanasr&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmala-nasr&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalanasr&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 
 </div>
 
 <!-- Snake Animation -->
 <div align="center">
-<img src="https://github.com/basmala-nasr/basmala-nasr/blob/output/snake-dark.svg" alt="Snake Animation" />
+<img src="https://github.com/basmalanasr/basmalanasr/blob/output/snake-dark.svg" alt="Snake Animation" />
 </div>
 
 
