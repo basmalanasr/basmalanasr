@@ -9,10 +9,12 @@
 </h1>
 <br>
 <!-- Links -->
-<p align="center">
-   <a href="mailto:your.email@example.com" title="Email">Email</a> | 
+<p align="center">  
+   <a href="mailto:basmalanasrr82@gmail.com" title="Email">Email</a> | 
    <a href="https://www.linkedin.com/in/basmala-nasr-6a85a0346" title="LinkedIn">LinkedIn</a>
-</p> 
+</p>
+
+
 <!-- About Me Section -->
 <h2>👩‍💻 About Me</h2>
 
@@ -29,13 +31,13 @@
         <li>🧩 Problem Solving: Enjoy tackling challenges and finding efficient solutions</li>
         <li>💡 I love exploring new technologies and developing real projects</li>  
         <li>📫 Contact me:     
-          <a href="mailto:basmalanasrr82@gmail.com" title="Email">
-          <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="25"/>
-          </a>
-          <a href="https://www.linkedin.com/in/basmala-nasr-6a85a0346" title="LinkedIn">
-          <img src="https://img.icons8.com/color/48/linkedin.png" width="25"/>
-          </a>
-          </ul>
+                         <a href="mailto:basmalanasr@gmail.com">
+                         <img src="https://skillicons.dev/icons?i=gmail" width="20" />
+                         </a>
+                         <a href="https://www.linkedin.com/in/basmala-nasr-6a85a0346/">
+                         <img src="https://skillicons.dev/icons?i=linkedin" width="20" />
+                         </a>
+           </ul>    
     </td>
     <!-- Right Side: GIF -->
     <td width="45%" valign="top" align="center">
@@ -85,10 +87,19 @@
 
 </div>
 
+<div align="center">
+
 <!-- Snake Animation -->
-![Snake Animation](https://github.com/basmalanasr/basmalanasr/blob/output/snake-dark.svg)
+![snake gif](https://github.com/basmalanasr/basmalanasr/blob/output/github-snake-dark.svg)
 
+</div>
 
+<div align="center">
+
+<!-- Profile Views Badge -->
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=basmalanasr.basmalanasr&right_color=6C63FF&left_text=Profile+Views)
+
+</div>
 
 
 
